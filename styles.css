@@ -1,0 +1,42 @@
+.Heading {
+    background-color: rgb(92, 4, 4);
+    text-align: center;
+    font-family: papyrus;
+    color: wheat;
+    font-size: 70px;
+}
+
+.centerImage{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+}
+
+.centerText{
+    text-align: center;
+}
+#firstTitle {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    /* background-color: burlywood; */
+}
+
+body {
+    background-image: url("https://static.vecteezy.com/system/resources/thumbnails/012/392/272/small_2x/hand-drawn-sweet-dessert-seamless-background-free-vector.jpg");
+
+}
+
+.bottomRight {
+        position:fixed;
+        right:10px;
+        bottom: 10px 
+}
+
+h1 {
+    font-size: medium;
+}
+
