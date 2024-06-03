@@ -40,3 +40,40 @@ h1 {
     font-size: medium;
 }
 
+.dishName {
+    font-weight: bolder;
+    font-family: papyrus;
+    font-size: 45px;
+    color: wheat;
+    text-decoration: none;
+    
+}
+
+.dishBox {
+    outline: 7px solid rgb(18, 16, 13);
+    margin: 50px;
+    background-color: rgb(92, 4, 4);
+}
+
+.dishDetails {
+    font-weight: bold;
+    font-family: papyrus;
+    font-size: 30px;
+    color: wheat;
+    
+}
+
+.btn {
+    display: inline-block;
+    box-sizing: border-box;
+    height: 70px;
+    width: 350px;
+    border: 5px solid wheat;
+    margin-bottom: 20px;
+    text-align: center;
+    margin-left: 500px;
+}
+
+.btn:hover {
+    background-color: black;
+}
