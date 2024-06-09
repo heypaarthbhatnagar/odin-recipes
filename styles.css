@@ -72,8 +72,21 @@ h1 {
     margin-bottom: 20px;
     text-align: center;
     margin-left: 500px;
+    background-color: rgb(92, 4, 4);
 }
 
 .btn:hover {
     background-color: black;
+}
+
+.ingre {
+    border: 20px solid rgb(92, 4, 4);
+    background-color: wheat;
+}
+
+body div p {
+    font-weight: bold;
+    font-family: papyrus;
+    font-size: 30px;
+    color: rgb(92, 4, 4);
 }
